@@ -1,4 +1,4 @@
-# Tarea-3---Paradigma-funcional-y-l-gico
+# Tarea-3---Paradigma-funcional-y-logico
 🍽️ Sistema de Gestión de Calorías - Restaurante "Mi Mejor Comida"
 Este programa en Java permite gestionar un menú de restaurante simulando el cálculo de calorías y la búsqueda de combinaciones de platos bajos en calorías. Desarrollado usando elementos de programación funcional con Streams, List.of, record, y expresiones lambda de Java.
 
