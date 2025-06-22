@@ -59,6 +59,7 @@ Java 17 o superior (por uso de record y List.of)
 Terminal o IDE compatible con compilación y ejecución Java
 
 👥 Integrantes
+
 Javier Silva
 
 Felipe Arancia
