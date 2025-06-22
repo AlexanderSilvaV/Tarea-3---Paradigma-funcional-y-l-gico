@@ -3,6 +3,7 @@
 Este programa en Java permite gestionar un menú de restaurante simulando el cálculo de calorías y la búsqueda de combinaciones de platos bajos en calorías. Desarrollado usando elementos de programación funcional con Streams, List.of, record, y expresiones lambda de Java.
 
 📋 Características
+
 ✅ Calcular las calorías totales de un menú personalizado (entrada, plato principal y postre).
 
 ✅ Listar combinaciones de menú que no sobrepasen un límite calórico definido por el usuario.
